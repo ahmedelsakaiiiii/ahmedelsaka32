@@ -1,102 +1,81 @@
-# Hey, I'm Ahmed Elsaka! 👋
-
-
-<h1 align="center">Welcome to My Digital World 💻</h1>
+# Hey, I'm Ahmed elska! 👋
 
 <p align="center">
-  <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code" width="28px">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
 </p>
 
-<h3 align="center">
-  Flutter Developer | Front-End Developer
-</h3>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=168BFF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Front-End+Developer;Building+Modern+Applications;Turning+Ideas+Into+Code" />
+</h2>
+
+<h3 align="center">Welcome to My Dark Digital World 🌙</h3>
 
 <p align="center">
-  Passionate about building beautiful, responsive, and user-friendly applications.
+  <img src="https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Front--End-Developer-00BFFF?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="YOUR_GITHUB_URL">
+<p align="center">
+  <a href="https://github.com/ahmedelsaka32">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://www.linkedin.com/in/ahmed-elsaka-b9904138a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:ae3634177@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-
----
 
 ## 💻 Technologies I Love
 
 - 📱 Flutter App Development
 - 🎯 Dart Programming
-- 🌐 Front-End Web Development
+- 🌐 Front-End Development
 - 🎨 Responsive Web Design
-- ⚡ Building Modern User Interfaces
 
----
+## 🛠️ Skills & Tools
 
-## 🛠️ Programming Languages & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,html,css,js" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,vscode,git,github,androidstudio">
 </p>
-
-## ⚙️ Tools I Use
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio" />
-</p>
-
----
 
 ## 👨‍💻 Who Am I?
 
 ```javascript
-const AhmedElsaka = {
-    name: "Ahmed Elsaka",
+const AhmedElska = {
+    name: "Ahmed elska",
     role: ["Flutter Developer", "Front-End Developer"],
     languages: ["Dart", "JavaScript", "HTML", "CSS"],
-    technologies: ["Flutter"],
     tools: ["VS Code", "Git", "GitHub"],
-    currentlyLearning: "Improving my development skills",
-    goal: "Building useful and creative applications"
+    goal: "Turning ideas into reality through code"
 };
 ```
 
----
-
 ## 🚀 Current Focus
 
-- 🔭 Developing mobile applications using Flutter.
+- 🔭 Building mobile applications using Flutter.
 - 🌱 Improving my Front-End development skills.
-- 💡 Learning new technologies and building real-world projects.
-- 🎯 Working towards becoming a professional Software Developer.
-
----
+- 💡 Building real-world projects.
+- 🎯 Becoming a professional Software Developer.
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedelsaka32&show_icons=true&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelsaka32&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
 ---
 
-## ✨ A Little About Me
-
-> "Great things are built one line of code at a time."
-
-I believe in continuous learning, creativity, and turning ideas into reality through code.
+<p align="center">
+  <i>"Great things are built one line of code at a time."</i>
+</p>
 
 <p align="center">
-  Thanks for visiting my profile! ⭐
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071426,50:11243B,100:168BFF&height=120&section=footer">
 </p>
