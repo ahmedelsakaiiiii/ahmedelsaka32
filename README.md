@@ -1,5 +1,4 @@
 # Hey, I'm Ahmed Elsaka! 👋
-<a href="https://www.linkedin.com/in/bitliu/"><img width="1672" height="941" alt="Building the Mixture-of-Models for the Next Era of Computing" src="./assets/profile-banner.png" /></a>
 
 
 <h1 align="center">Welcome to My Digital World 💻</h1>
