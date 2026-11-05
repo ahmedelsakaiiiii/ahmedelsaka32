@@ -4,7 +4,7 @@
 <h1 align="center">Welcome to My Digital World 💻</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
+  <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code" width="28px">
 </p>
 
 <h3 align="center">
